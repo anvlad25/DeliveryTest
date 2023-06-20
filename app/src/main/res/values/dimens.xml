@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginStart_home">5dp</dimen>
+    <dimen name="marginEnd_home">10dp</dimen>
+    <dimen name="marginTop_home">5dp</dimen>
+    <dimen name="paddingStart_home">10dp</dimen>
+    <dimen name="paddingEnd_home">0dp</dimen>
+    <dimen name="marginTop_location">20dp</dimen>
+    <dimen name="marginStart_location">2dp</dimen>
+    <dimen name="textSize_location">20sp</dimen>
+    <dimen name="marginTop_avatar">10dp</dimen>
+    <dimen name="marginEnd_avatar">10dp</dimen>
+</resources>

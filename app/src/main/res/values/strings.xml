@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DeliveryHw</string>
+    <string name="home">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="bag">Корзина</string>
+    <string name="profile">Аккаунт</string>
+    <string name="bakeries_text">Пекарни\nи кондитерские</string>
+    <string name="fast_food_text">Фастфуд</string>
+    <string name="asian_text">Азиатская кухня</string>
+    <string name="soups_text">Супы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="need_permissions_to_find_location">Необходимо разрешение геолокации</string>
+    <string name="add_to_bag">Добавить в корзину</string>
+    <string name="symbol_rub">₽</string>
+    <string name="symbol_dot">•</string>
+    <string name="gram">г</string>
+
+</resources>
